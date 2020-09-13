@@ -1,0 +1,192 @@
+[{
+    "id": "c8e9bb1d-3ddb-447f-82e1-b1b92yds630",
+    "vin": "1FTPX125X5FB38222",
+    "license_plate": null,
+    "license_plate_state": null,
+    "mileage": 220,
+    "phone": "+18313461539",
+    "price": 4200,
+    "short_url": "imotor.pw/szwo2",
+    "created_at": "2017-10-23T20:16:14.982Z",
+    "updated_at": "2017-10-23 13:16:15 -0700",
+    "transmission": "automatic",
+    "title": "2005 Ford F-150",
+    "progress": {
+        "current": 35,
+        "total": 100
+    },
+    "images": [{
+        "id": "0b0709ac-dfc2-401b-bc99-24s1da1fd02ad",
+        "uri": "https://static.pexels.com/photos/2071/broken-car-vehicle-vintage.jpg"
+    }, {
+        "id": "0b0709ac-dfc2-401b-bc99-24s1da1fd02ad",
+        "uri": "https://media.ed.edmunds-media.com/volvo/v90-cross-country/2017/oem/2017_volvo_v90-cross-country_wagon_t6_fq_oem_2_1280.jpg"
+    }],
+    "owner": {
+        "id": "cc75528a-783c-43a9-b446-88b09eb9dcab",
+        "first_name": "Demo",
+        "last_name": "User",
+        "photo_url": "http://www.justinziegler.net/wp-content/uploads/2015/04/Car-owner-liability-Florida.jpg",
+        "email": "demo@user.com"
+    },
+    "addresses": [{
+        "id": "de85fdd8-e8bf-4d64-a6e4-3dc4f32oiew7f9",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipcode": "94111",
+        "latitude": "37.798228",
+        "longitude": "-122.40027"
+    }],
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2005,
+    "trim": "XLT"
+}, {
+    "id": "bebea564-4b98-4404-8792-57645b8605f8",
+    "vin": "JHMES95685S009864",
+    "mileage": 150450,
+    "phone": "+18313461539",
+    "price": 4751,
+    "created_at": "2015-10-28T15:23:30.995-07:00",
+    "updated_at": "2015-10-28T16:00:22.452-07:00",
+    "title": "2005 Honda Civic",
+    "transmission": "manual",
+    "trim": "Hybrid",
+    "year": 2005,
+    "model": "Civic",
+    "make": "Honda",
+    "progress": {
+        "current": 15,
+        "total": 100
+    },
+    "owner": {
+        "last_name": "S.",
+        "id": "d7816075-5317-48a5-94ae-a2f708d5bd18",
+        "photo_url": "https://user-images.instamotor.com/c3d9c4f2-5539-43d8-8b54-212afd3cc7b9?w=160\u0026h=160",
+        "first_name": "Prashant"
+    },
+    "images": [{
+        "id": "0b0709ac-dfc2-401b-bc99-24s1da1fd02ad",
+        "url": "https://vehicle-images.instamotor.com/dea9616e-38bc-4796-8fec-1e390d9accf5"
+    }, {
+        "id": "0b0709ac-dfc2-401b-bc99-24s1da1fd02ad",
+        "url": "https://vehicle-images.instamotor.com/da596a7b-8d8b-4d24-8d90-4d589b8308a0"
+    }, {
+        "id": "0b0709ac-dfc2-401b-bc99-24s1da1fd02ad",
+        "url": "https://vehicle-images.instamotor.com/62b4aa1f-ee54-4479-988e-41305184120e"
+    }, {
+        "id": "0b0709ac-dfc2-401b-bc99-24s1da1fd02ad",
+        "url": "https://vehicle-images.instamotor.com/898d36cb-beab-4706-81a3-1d1ec1d15bc9"
+    }, {
+        "id": "0b0709ac-dfc2-401b-bc99-24s1da1fd02ad",
+        "url": "https://vehicle-images.instamotor.com/05f252cd-c862-4d1d-81cd-98ee0fc8806d"
+    }, {
+        "id": "0b0709ac-dfc2-401b-bc99-24s1da1fd02ad",
+        "url": "https://vehicle-images.instamotor.com/cd3c855c-2faa-4a87-9f9e-8ca232efff11"
+    }, {
+        "id": "0b0709ac-dfc2-401b-bc99-24s1da1fd02ad",
+        "url": "https://vehicle-images.instamotor.com/44b4f8c9-9027-43f7-9b26-5044d5ff19c3"
+    }],
+    "addresses": [{
+        "zipcode": "95112",
+        "city": "San Jose",
+        "longitude": -121.88627,
+        "state": "CA",
+        "latitude": 37.348541
+    }]
+}, {
+    "id": "d8f130df-4340-40af-84cb-2c22fd543d16",
+    "vin": "WDBJF65G0YA963593",
+    "mileage": 210000,
+    "phone": "+18313461539",
+    "price": 3001,
+    "created_at": "2016-01-06T14:04:33.471-08:00",
+    "updated_at": "2016-01-06T14:16:55.834-08:00",
+    "title": "2000 Mercedes-Benz E-Class",
+    "transmission": "automatic",
+    "trim": "E320",
+    "year": 2000,
+    "model": "E-Class",
+    "make": "Mercedes-Benz",
+    "progress": {
+        "current": 72,
+        "total": 100
+    },
+    "owner": {
+        "last_name": "J.",
+        "id": "723da5c8-b836-4650-a0dc-2e5b58e18ea0",
+        "photo_url": "https://lh6.googleusercontent.com/-sXOuCJ_etwo/AAAAAAAAAAI/AAAAAAAACwI/CKw7WgWck_0/photo.jpg?sz=160",
+        "first_name": "Michael Austin"
+    },
+    "images": [{
+        "id": "0b0709ac-dfc2-401b-bc99-24s1da1fd02ad",
+        "url": "https://vehicle-images.instamotor.com/0cea1f60-ab64-4f3d-9241-34b101687243"
+    }, {
+        "id": "0b0709ac-dfc2-401b-bc99-24s1da1fd02ad",
+        "url": "https://vehicle-images.instamotor.com/dbc963be-1df3-4078-81e4-aec55e93fde6"
+    }],
+    "addresses": [{
+        "zipcode": "94103",
+        "city": "San Francisco",
+        "longitude": -122.41087,
+        "state": "CA",
+        "latitude": 37.772329
+    }]
+}, {
+    "id": "9d8ce5a4-4138-4445-ab0b-461d8a79ee6f",
+    "vin": "JM1BL1UG5B1403532",
+    "mileage": 82800,
+    "phone": "+18313461539",
+    "price": 8500,
+    "created_at": "2015-12-22T12:39:24.299-08:00",
+    "updated_at": "2015-12-22T13:05:03.477-08:00",
+    "title": "2011 Mazda 3",
+    "transmission": "automatic",
+    "trim": "i Sport",
+    "year": 2011,
+    "model": "3",
+    "make": "Mazda",
+    "progress": {
+        "current": 29,
+        "total": 100
+    },
+    "owner": {
+        "last_name": "D.",
+        "id": "fbda1570-24e4-4c27-8306-fe64bac83e18",
+        "photo_url": "https://user-images.instamotor.com/bea9591c-b39f-48cc-be05-7464653784a5?w=160\u0026h=160",
+        "first_name": "Bonnie"
+    },
+    "images": [{
+        "id": "0b0709ac-dfc2-401b-bc99-24s1da1fd02ad",
+        "url": "https://vehicle-images.instamotor.com/7e73fd58-331a-4359-acd9-029b3f98bc98"
+    }, {
+        "id": "0b0709ac-dfc2-401b-bc99-24s1da1fd02ad",
+        "url": "https://vehicle-images.instamotor.com/258237b8-e0d8-4aa5-a2e3-e9341bf8293b"
+    }, {
+        "id": "0b0709ac-dfc2-401b-bc99-24s1da1fd02ad",
+        "url": "https://vehicle-images.instamotor.com/4f7068b6-8fcf-42c8-ab9a-da4cb738d364"
+    }, {
+        "id": "0b0709ac-dfc2-401b-bc99-24s1da1fd02ad",
+        "url": "https://vehicle-images.instamotor.com/ffecd2af-9e6e-42cf-9691-11182c3174f4"
+    }, {
+        "id": "0b0709ac-dfc2-401b-bc99-24s1da1fd02ad",
+        "url": "https://vehicle-images.instamotor.com/31d8bbc3-28da-47ea-911d-c5644f8295f1"
+    }, {
+        "id": "0b0709ac-dfc2-401b-bc99-24s1da1fd02ad",
+        "url": "https://vehicle-images.instamotor.com/97598940-17e5-4fcc-b0bd-e12e7c12ede8"
+    }, {
+        "id": "0b0709ac-dfc2-401b-bc99-24s1da1fd02ad",
+        "url": "https://vehicle-images.instamotor.com/7dc6a9f6-24e0-4841-8bc7-4b624219abe1"
+    }, {
+        "id": "0b0709ac-dfc2-401b-bc99-24s1da1fd02ad",
+        "url": "https://vehicle-images.instamotor.com/f9a3cce1-f369-4417-a30b-543c4353df80"
+    }],
+    "addresses": [{
+        "zipcode": "94610",
+        "city": "Oakland",
+        "longitude": -122.24199,
+        "state": "CA",
+        "latitude": 37.812377
+    }]
+}]
+
