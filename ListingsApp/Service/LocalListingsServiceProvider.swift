@@ -6,13 +6,15 @@
 //  Copyright © 2020 Oleg Gavrilich. All rights reserved.
 //
 
-import Foundation
+import UIKit
 
 class LocalListingsServiceProvider: ListingsServiceProvider {
     
     private enum Constants {
         static let listingsJsonFile: String = "listings"
     }
+    
+    let imageCache = NSCache<AnyObject, AnyObject>()
     
     func getListings(completion: @escaping ([Listing]?) -> Void) {
         if let data = readLocalFile(for: Constants.listingsJsonFile) {
@@ -21,6 +23,22 @@ class LocalListingsServiceProvider: ListingsServiceProvider {
             completion(result)
         } else {
             completion(nil)
+        }
+    }
+    
+    func loadImage(from url: URL, completion: @escaping (UIImage?) -> Void) {
+        if let image = imageCache.object(forKey: url as AnyObject) {
+            completion(image as? UIImage)
+        } else {
+            URLSession.shared.dataTask(with: url) { (data, _, error) in
+                guard let data = data, let imageData = UIImage(data: data) else {
+                    completion(nil)
+                    return
+                }
+                
+                completion(imageData)
+                self.imageCache.setObject(imageData, forKey: url as AnyObject)
+            }.resume()
         }
     }
     

@@ -6,8 +6,9 @@
 //  Copyright © 2020 Oleg Gavrilich. All rights reserved.
 //
 
-import Foundation
+import UIKit
 
 protocol ListingsServiceProvider {
     func getListings(completion: @escaping ([Listing]?) -> Void)
+    func loadImage(from url: URL, completion: @escaping (UIImage?) -> Void)
 }

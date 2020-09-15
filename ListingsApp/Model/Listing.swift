@@ -25,6 +25,7 @@ struct Listing: Decodable {
         let id: String
         let photo_url: URL
         let first_name: String
+        let email: String?
     }
     
     struct Address: Decodable {
@@ -102,6 +103,7 @@ struct Listing: Decodable {
     let model: String
     let make: String
     let progress: Progress
+    let owner: Owner
     let addresses: [Address]
     let images: [Image]
 }
